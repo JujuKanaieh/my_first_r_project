@@ -1,1 +1,8 @@
-cp /path_to_file/filename your_project_directory
+---
+title: "HelloWorld"
+author: "Lujain Kanaieh"
+date: "2025-01-16"
+output: html_document
+---
+
+## This is a markdown file
